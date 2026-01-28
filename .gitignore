@@ -1,0 +1,12 @@
+# Android / Gradle
+.gradle/
+build/
+*.apk
+*.aab
+
+# Node / frontend
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
